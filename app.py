@@ -7,5 +7,5 @@ def home():
   return "IT works"
 
 
-if __name__ == '__main__":
+if __name__ == "__main__":
 	app.run()
